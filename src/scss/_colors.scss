@@ -1,0 +1,21 @@
+@import './variables';
+
+
+.mo-bg-primary { background-color: $primary-color; color: $white-color }
+.mo-bg-secondary { background-color: $secondary-color }
+.mo-bg-success { background-color: $success-color }
+.mo-bg-info { background-color: $info-color }
+.mo-bg-warning { background-color: $warning-color }
+.mo-bg-danger { background-color: $danger-color }
+.mo-bg-light { background-color: $light-color }
+.mo-bg-dark { background-color: $dark-color }
+
+
+.mo-text-primary { color: $primary-color !important}
+.mo-text-secondary { color: $secondary-color !important}
+.mo-text-success { color: $success-color !important}
+.mo-text-info { color: $info-color !important}
+.mo-text-warning { color: $warning-color !important}
+.mo-text-danger { color: $danger-color !important}
+.mo-text-light { color: $light-color !important}
+.mo-text-dark { color: $dark-color !important}

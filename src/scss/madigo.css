@@ -1,0 +1,200 @@
+.mo-bg-primary {
+  background-color: #1251fe;
+  color: #f3f3f3;
+}
+
+.mo-bg-secondary {
+  background-color: #6c757d;
+}
+
+.mo-bg-success {
+  background-color: #28a745;
+}
+
+.mo-bg-info {
+  background-color: #17a2b8;
+}
+
+.mo-bg-warning {
+  background-color: #ffc107;
+}
+
+.mo-bg-danger {
+  background-color: #dc3545;
+}
+
+.mo-bg-light {
+  background-color: #f8f9fa;
+}
+
+.mo-bg-dark {
+  background-color: #343a40;
+}
+
+.mo-text-primary {
+  color: #1251fe !important;
+}
+
+.mo-text-secondary {
+  color: #6c757d !important;
+}
+
+.mo-text-success {
+  color: #28a745 !important;
+}
+
+.mo-text-info {
+  color: #17a2b8 !important;
+}
+
+.mo-text-warning {
+  color: #ffc107 !important;
+}
+
+.mo-text-danger {
+  color: #dc3545 !important;
+}
+
+.mo-text-light {
+  color: #f8f9fa !important;
+}
+
+.mo-text-dark {
+  color: #343a40 !important;
+}
+
+.mo-btn-xs {
+  padding: 3px 6px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.mo-btn-sm {
+  padding: 6px 9px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.mo-btn {
+  padding: 9px 12px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1.08em;
+}
+
+.mo-btn-md {
+  padding: 9px 12px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.mo-btn-lg {
+  padding: 9px 12px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1.8em;
+}
+
+.mo-btn-xl {
+  padding: 9px 12px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 2.1em;
+}
+
+.mo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.mo-row {
+  flex-direction: column;
+}
+
+.mo-col {
+  flex-direction: row;
+}
+
+.mo-input-xs {
+  padding: 3px 6px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 0.9em;
+  box-sizing: border-box;
+}
+
+.mo-input-xs:focus {
+  outline: none;
+  border-color: #1251fe;
+}
+
+.mo-input-sm {
+  padding: 6px 9px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 0.9em;
+  box-sizing: border-box;
+}
+
+.mo-input-sm:focus {
+  outline: none;
+  border-color: #1251fe;
+}
+
+.mo-input {
+  padding: 9px 12px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1.09em;
+  box-sizing: border-box;
+}
+
+.mo-input:focus {
+  outline: none;
+  border-color: #1251fe;
+}
+
+.mo-input-md {
+  padding: 9px 12px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1.2em;
+  box-sizing: border-box;
+}
+
+.mo-input-md:focus {
+  outline: none;
+  border-color: #1251fe;
+}
+
+.mo-input-lg {
+  padding: 9px 12px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1.5em;
+  box-sizing: border-box;
+}
+
+.mo-input-lg:focus {
+  outline: none;
+  border-color: #1251fe;
+}
+
+.mo-input-xl {
+  padding: 9px 12px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1.8em;
+  box-sizing: border-box;
+}
+
+.mo-input-xl:focus {
+  outline: none;
+  border-color: #1251fe;
+}/*# sourceMappingURL=madigo.css.map */
