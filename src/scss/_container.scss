@@ -1,15 +1,25 @@
 .mo-container{
     display: flex;
-    justify-content: center;
-    align-items: center;
     height: 100%;
-    width: 100%;
+    width: 100%; 
 }
 
 .mo-row{
+    flex-direction: row;
+    
+}
+.mo-col{
     flex-direction: column;
 }
 
-.mo-col{
+.mo-d-row{
     flex-direction: row;
+}
+
+.mo-d-col{
+    flex-direction: column;
+}
+
+.mo-justify-content{
+    justify-content:center;
 }

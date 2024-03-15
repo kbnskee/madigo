@@ -1,0 +1,20 @@
+$size_zero:0px;
+$size_sm: 3px;
+$size_md: 6px;
+$size_lg: 9px;
+
+.mo-p-sm{padding: $size_sm;}
+.mo-p-md{padding: $size_md;}
+.mo-p-lg{padding: $size_lg;}
+
+.mo-py-sm{padding-top: $size_sm; padding-bottom: $size_sm;}
+.mo-py-md{padding-top: $size_md; padding-bottom: $size_md;}
+.mo-py-lg{padding-top: $size_lg; padding-bottom: $size_lg;}
+
+.mo-px-sm{padding-left: $size_sm; padding-right: $size_sm;}
+.mo-px-md{padding-left: $size_md; padding-right: $size_md;}
+.mo-px-lg{padding-left: $size_lg; padding-right: $size_lg;}
+
+.mo-m-sm{margin: $size_sm;}
+.mo-m-md{margin: $size_md;}
+.mo-m-lg{margin: $size_lg;}

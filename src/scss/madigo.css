@@ -31,6 +31,10 @@
   background-color: #343a40;
 }
 
+.mo-bg-dark-blue {
+  background-color: #125bb4;
+}
+
 .mo-text-primary {
   color: #1251fe !important;
 }
@@ -107,18 +111,28 @@
 
 .mo-container {
   display: flex;
-  justify-content: center;
-  align-items: center;
   height: 100%;
   width: 100%;
 }
 
 .mo-row {
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .mo-col {
+  flex-direction: column;
+}
+
+.mo-d-row {
   flex-direction: row;
+}
+
+.mo-d-col {
+  flex-direction: column;
+}
+
+.mo-justify-content {
+  justify-content: center;
 }
 
 .mo-input-xs {
@@ -197,4 +211,58 @@
 .mo-input-xl:focus {
   outline: none;
   border-color: #1251fe;
+}
+
+.mo-p-sm {
+  padding: 3px;
+}
+
+.mo-p-md {
+  padding: 6px;
+}
+
+.mo-p-lg {
+  padding: 9px;
+}
+
+.mo-py-sm {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.mo-py-md {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.mo-py-lg {
+  padding-top: 9px;
+  padding-bottom: 9px;
+}
+
+.mo-px-sm {
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.mo-px-md {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.mo-px-lg {
+  padding-left: 9px;
+  padding-right: 9px;
+}
+
+.mo-m-sm {
+  margin: 3px;
+}
+
+.mo-m-md {
+  margin: 6px;
+}
+
+.mo-m-lg {
+  margin: 9px;
 }/*# sourceMappingURL=madigo.css.map */
